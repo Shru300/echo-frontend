@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EchoBoard</string>
+    <string name="title_activity_main">EchoBoard</string>
+    <string name="package_name">com.echoboard.app</string>
+    <string name="custom_url_scheme">com.echoboard.app</string>
+</resources>
